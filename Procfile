@@ -1,1 +1,1 @@
-worker: npm i aoi.js
+worker: node index.js
